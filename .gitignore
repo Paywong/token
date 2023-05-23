@@ -4,6 +4,7 @@ coverage
 coverage.json
 typechain-types
 yarn-error.log
+airdrop-users.json
 
 #Hardhat files
 cache

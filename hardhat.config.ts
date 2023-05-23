@@ -54,6 +54,9 @@ const config: HardhatUserConfig = {
         runOnCompile: true,
         flat: true,
     },
+    typechain: {
+        externalArtifacts:['externalAbis/*.json']
+    }
 };
 
 export default config;
