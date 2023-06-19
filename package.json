@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "@anders-t/ethers-ledger": "^1.0.4",
-    "@openzeppelin/contracts": "^4.8.2",
+    "@openzeppelin/contracts": "^4.9.2",
     "csv-parse": "^5.3.10",
     "decimal.js": "^10.4.3"
   },
